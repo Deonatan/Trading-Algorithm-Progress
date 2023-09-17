@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trading-algorithm-progress/static/css/main.e6c13ad2.css",
-    "main.js": "/trading-algorithm-progress/static/js/main.74abd71d.js",
+    "main.js": "/trading-algorithm-progress/static/js/main.1065ec4e.js",
     "static/js/787.3d2eee07.chunk.js": "/trading-algorithm-progress/static/js/787.3d2eee07.chunk.js",
     "index.html": "/trading-algorithm-progress/index.html",
     "main.e6c13ad2.css.map": "/trading-algorithm-progress/static/css/main.e6c13ad2.css.map",
-    "main.74abd71d.js.map": "/trading-algorithm-progress/static/js/main.74abd71d.js.map",
+    "main.1065ec4e.js.map": "/trading-algorithm-progress/static/js/main.1065ec4e.js.map",
     "787.3d2eee07.chunk.js.map": "/trading-algorithm-progress/static/js/787.3d2eee07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.74abd71d.js"
+    "static/js/main.1065ec4e.js"
   ]
 }
